@@ -1,0 +1,792 @@
+{
+  "total_orders": 95,
+  "total_cost_spent": "37915.60",
+  "cost_per_month": "3159.63",
+  "most_expensive_order": {
+    "order": {
+      "orderId": 4848821378,
+      "totalCost": "851.40",
+      "rating": null,
+      "ratingV2": "-",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "orderDate": "May 02, 2023 at 11:30 AM",
+      "hashId": "BAvqlvZR",
+      "status": 6,
+      "paymentStatus": 1,
+      "dishString": "1 x Bbq Chicken Semizza (Half Pizza), 1 x Margherita Semizza (Half Pizza), 1 x Potato Wedges (Medium), 1 x 4 Cheese Dips Combo, 1 x Plain Herbed Garlic Bread (with Free Cheese Dip)., 1 x SWIG Green Apple, 1 x Coca-Cola Bottle (475 ML)",
+      "deliveryDetails": {
+        "deliveryAddress": "E212 Second floor, Featherlite vaikuntam, Guduvancherry, Urapakkam, Chennai",
+        "deliveryStatus": 4,
+        "deliveryMessage": "This order was delivered successfully. Hope you enjoyed your meal!",
+        "deliveryLabel": "Delivered"
+      },
+      "resInfo": {
+        "id": 18961324,
+        "name": "Oven Story Pizza - Standout Toppings",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/18460193/50b23915515e29bc0d49e97e591d5114_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "4,479",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your delivery experience",
+          "options": [
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "delivery"
+        },
+        "resUrl": "https://www.zomato.com/chennai/oven-story-pizza-standout-toppings-gst-road",
+        "resPath": "/chennai/oven-story-pizza-standout-toppings-gst-road",
+        "phone": {
+          "phone_string": "+917738383000",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+917738383000",
+          "mobile_string_display": "+917738383000",
+          "phone_string_available": 1
+        },
+        "establishment": [],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "42, MIT Colony, Urapakkam, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8679300000,80.0760850000"
+        },
+        "isBookmarked": false
+      },
+      "showReorderButton": true,
+      "isFavourite": 0,
+      "isOrderTrackable": 0,
+      "summarySection": {
+        "title": "View Details",
+        "shouldShowModal": true,
+        "crystalPageUrl": ""
+      },
+      "reOrderUrl": "/chennai/oven-story-pizza-standout-toppings-gst-road/reorder/BAvqlvZR",
+      "dishes": [
+        "Bbq Chicken Semizza (Half Pizza)",
+        "Margherita Semizza (Half Pizza)",
+        "Potato Wedges (Medium)",
+        "4 Cheese Dips Combo",
+        "Plain Herbed Garlic Bread (with Free Cheese Dip).",
+        "SWIG Green Apple",
+        "Coca-Cola Bottle (475 ML)"
+      ]
+    },
+    "cost": 851.4
+  },
+  "least_expensive_order": {
+    "order": {
+      "orderId": 5331344754,
+      "totalCost": "2,483.04",
+      "rating": null,
+      "ratingV2": "-",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "orderDate": "November 11, 2023 at 04:50 PM",
+      "hashId": "LARzgwdQ",
+      "status": 6,
+      "paymentStatus": 1,
+      "dishString": "1 x Festive Pack Hamper 6",
+      "deliveryDetails": {
+        "deliveryAddress": "Royal Next ladies PG, Royal Next luxury ladies pg, Chocolate Factory Road, Tavarekere, Madiwala, 1st Stage, BTM Layout, Bengaluru, Karnataka, India, India",
+        "deliveryStatus": 4,
+        "deliveryMessage": "This order was delivered successfully. Hope you enjoyed your meal!",
+        "deliveryLabel": "Delivered"
+      },
+      "resInfo": {
+        "id": 19616653,
+        "name": "Sangam Sweets",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/54670/b8caf9b47bdf5449c9b6ff8523c82fe3_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1,286",
+          "subtext": "REVIEW",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/bangalore/sangam-sweets-jayanagar-bangalore",
+        "resPath": "/bangalore/sangam-sweets-jayanagar-bangalore",
+        "phone": {
+          "phone_string": "+918867686422",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+918867686422",
+          "mobile_string_display": "+918867686422",
+          "phone_string_available": 1
+        },
+        "establishment": ["Sweet Shop", "Quick Bites"],
+        "locality": {
+          "cityId": 4,
+          "localityName": "Jayanagar, Bangalore",
+          "localityUrl": "bangalore/jayanagar-restaurants",
+          "addressString": "44, T Mariyappa Road, 1st Block, Near Ashoka Pillar, Jayanagar, Bangalore",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.9431270325,77.5850985199"
+        },
+        "isBookmarked": false
+      },
+      "showReorderButton": true,
+      "isFavourite": 0,
+      "isOrderTrackable": 0,
+      "summarySection": {
+        "title": "View Details",
+        "shouldShowModal": true,
+        "crystalPageUrl": ""
+      },
+      "reOrderUrl": "/bangalore/sangam-sweets-jayanagar-bangalore/reorder/LARzgwdQ",
+      "dishes": ["Festive Pack Hamper 6"]
+    },
+    "cost": 2
+  },
+  "average_order_cost": "399.11",
+  "top_dishes": [
+    {
+      "name": "Hyderabadi Chicken65 Biryani(boneless)",
+      "count": 14
+    },
+    {
+      "name": "Pepper Chicken Fry",
+      "count": 8
+    },
+    {
+      "name": "Boneless Special Chicken Biryani",
+      "count": 6
+    },
+    {
+      "name": "Kushka",
+      "count": 6
+    },
+    {
+      "name": "Egg Biryani",
+      "count": 5
+    },
+    {
+      "name": "Chicken Dum Biryani",
+      "count": 3
+    },
+    {
+      "name": "Chicken 65 Biryani",
+      "count": 3
+    },
+    {
+      "name": "Chicken Sukka",
+      "count": 3
+    },
+    {
+      "name": "Special Chicken Biryani",
+      "count": 3
+    },
+    {
+      "name": "Alsham Special Chicken Biryani",
+      "count": 3
+    }
+  ],
+  "top_restaurants": [
+    {
+      "resInfo": {
+        "id": 18634038,
+        "name": "Golcondas",
+        "thumb": "https://b.zmtcdn.com/data/pictures/8/18634038/5ac0a01174233928b4c137ccd5c565c5_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "11.4K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/golcondas-potheri",
+        "resPath": "/chennai/golcondas-potheri",
+        "phone": {
+          "phone_string": "+919003207070",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919003207070",
+          "mobile_string_display": "+919003207070",
+          "phone_string_available": 1
+        },
+        "establishment": ["Casual Dining"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "OMR Food Street, Guduvancheri, Chennai",
+          "localityUrl": "chennai/restaurants/in/omr-food-street-guduvancheri",
+          "addressString": "Shop E7/8/9, GST Food Street, Thailvaram, Maraimali Nagar, Potheri, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8327240000,80.0492200000"
+        },
+        "isBookmarked": false
+      },
+      "count": 26
+    },
+    {
+      "resInfo": {
+        "id": 19005011,
+        "name": "Hotel New Arcot Biriyani & Catering Center",
+        "thumb": "https://b.zmtcdn.com/data/pictures/1/19005011/565ac7f8fdad5cfa17c6c2e8cd9ac613_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.9",
+          "rating_text": "3.9",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "2,159",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/hotel-new-arcot-biriyani-catering-center-gst-road",
+        "resPath": "/chennai/hotel-new-arcot-biriyani-catering-center-gst-road",
+        "phone": {
+          "phone_string": "+919940036467, +919962365900",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919940036467: +919962365900",
+          "mobile_string_display": "+919940036467, +919962365900",
+          "phone_string_available": 1
+        },
+        "establishment": ["Quick Bites"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "332, Urapakkam, GST Road, Kattankulathur Block, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8595732036,80.0723417848"
+        },
+        "isBookmarked": false
+      },
+      "count": 9
+    },
+    {
+      "resInfo": {
+        "id": 18244083,
+        "name": "Al Sham",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/18244083/ab37e3b538111d0ddef2487402774064_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "12.5K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/al-sham-gst-road",
+        "resPath": "/chennai/al-sham-gst-road",
+        "phone": {
+          "phone_string": "+918015522777, +918015533777, +918101454408",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+918015522777: +918015533777: +918101454408",
+          "mobile_string_display": "+918015522777, +918015533777, +918101454408",
+          "phone_string_available": 1
+        },
+        "establishment": ["Casual Dining"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "20, Guduvanchery, Near Registar Office, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8493453303,80.0646562502"
+        },
+        "isBookmarked": false
+      },
+      "count": 4
+    },
+    {
+      "resInfo": {
+        "id": 18460152,
+        "name": "Faruuzi Multicuisine Restaurant",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/5/18415235/cb2414d9a8c9dcae6eb472489723255a_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "38.3K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/faruuzi-multicuisine-restaurant-gst-road",
+        "resPath": "/chennai/faruuzi-multicuisine-restaurant-gst-road",
+        "phone": {
+          "phone_string": "+919790733773, +919790733775",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919790733773: +919790733775",
+          "mobile_string_display": "+919790733773, +919790733775",
+          "phone_string_available": 1
+        },
+        "establishment": ["Casual Dining"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "30, Urapakkam, Opposite VGP Ground, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8709077107,80.0766534358"
+        },
+        "isBookmarked": false
+      },
+      "count": 4
+    },
+    {
+      "resInfo": {
+        "id": 18475997,
+        "name": "Grand Star",
+        "thumb": "https://b.zmtcdn.com/data/pictures/7/18475997/dfe9395cf98b0e4b840cbd08ed7a6502_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "10.2K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/grand-star-gst-road",
+        "resPath": "/chennai/grand-star-gst-road",
+        "phone": {
+          "phone_string": "+918939555530",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+918939555530",
+          "mobile_string_display": "+918939555530",
+          "phone_string_available": 1
+        },
+        "establishment": ["Quick Bites"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "182/2, Guduvanchery, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8426712000,80.0583355000"
+        },
+        "isBookmarked": false
+      },
+      "count": 4
+    },
+    {
+      "resInfo": {
+        "id": 20058894,
+        "name": "Kerala Spoons Restaurant",
+        "thumb": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "613",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your delivery experience",
+          "options": [
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "delivery"
+        },
+        "resUrl": "https://www.zomato.com/chennai/kerala-spoons-restaurant-potheri",
+        "resPath": "/chennai/kerala-spoons-restaurant-potheri",
+        "phone": {
+          "phone_string": "+919074652890",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919074652890",
+          "mobile_string_display": "+919074652890",
+          "phone_string_available": 1
+        },
+        "establishment": [],
+        "locality": {
+          "cityId": 7,
+          "localityName": "Potheri, Chennai",
+          "localityUrl": "chennai/potheri-restaurants",
+          "addressString": "40, Samundeeswari Nagar, Thilavaram, Potheri, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8277295466,80.0438353589"
+        },
+        "isBookmarked": false
+      },
+      "count": 3
+    },
+    {
+      "resInfo": {
+        "id": 20136291,
+        "name": "Naidu's Food Court",
+        "thumb": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "426",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your delivery experience",
+          "options": [
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "delivery"
+        },
+        "resUrl": "https://www.zomato.com/chennai/naidus-food-court-potheri",
+        "resPath": "/chennai/naidus-food-court-potheri",
+        "phone": {
+          "phone_string": "+919000155234",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919000155234",
+          "mobile_string_display": "+919000155234",
+          "phone_string_available": 1
+        },
+        "establishment": [],
+        "locality": {
+          "cityId": 7,
+          "localityName": "Potheri, Chennai",
+          "localityUrl": "chennai/potheri-restaurants",
+          "addressString": "Plot 61a, Samundeeswari Nagar, Thailavaram, Potheri, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8284401449,80.0441755727"
+        },
+        "isBookmarked": false
+      },
+      "count": 3
+    },
+    {
+      "resInfo": {
+        "id": 69847,
+        "name": "New Ayyanar Restaurant",
+        "thumb": "https://b.zmtcdn.com/data/pictures/7/69847/3028383eccad8b64a5bc3458747aa1b8_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.6",
+          "rating_text": "3.6",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "4,158",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/new-ayyanar-restaurant-gst-road",
+        "resPath": "/chennai/new-ayyanar-restaurant-gst-road",
+        "phone": {
+          "phone_string": "+914427462110, +914427462115, +919444205316",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+914427462110: +914427462115: +919444205316",
+          "mobile_string_display": "+914427462110, +914427462115, +919444205316",
+          "phone_string_available": 1
+        },
+        "establishment": ["Casual Dining"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "48, Guduvancheri, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8523149000,80.0659530000"
+        },
+        "isBookmarked": false
+      },
+      "count": 2
+    },
+    {
+      "resInfo": {
+        "id": 18428755,
+        "name": "Sree Gupta Bhavan",
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/18428755/f7beb3a85d2495d1dd3571bc8c580552_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "3,141",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/sree-gupta-bhavan-gst-road",
+        "resPath": "/chennai/sree-gupta-bhavan-gst-road",
+        "phone": {
+          "phone_string": "+919884413917",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919884413917",
+          "mobile_string_display": "+919884413917",
+          "phone_string_available": 1
+        },
+        "establishment": ["Sweet Shop", "Quick Bites"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "154, Guduvancherry, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8437964775,80.0594353303"
+        },
+        "isBookmarked": false
+      },
+      "count": 2
+    },
+    {
+      "resInfo": {
+        "id": 18643886,
+        "name": "Olala Halal Food Zone",
+        "thumb": "https://b.zmtcdn.com/data/pictures/6/18643886/406890ebe56ca0fe95dd4cdaa15811bc_featured_v2.jpg",
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.8",
+          "rating_text": "3.8",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "4,332",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingData": {
+          "header": "Rate your experience for",
+          "options": [
+            {
+              "value": "dining",
+              "label": "Dining"
+            },
+            {
+              "value": "delivery",
+              "label": "Delivery"
+            }
+          ],
+          "selected": "dining"
+        },
+        "resUrl": "https://www.zomato.com/chennai/olala-halal-food-zone-gst-road",
+        "resPath": "/chennai/olala-halal-food-zone-gst-road",
+        "phone": {
+          "phone_string": "+919087255666",
+          "isACD": false,
+          "isDirect": false,
+          "mobile_string": "+919087255666",
+          "mobile_string_display": "+919087255666",
+          "phone_string_available": 1
+        },
+        "establishment": ["Quick Bites"],
+        "locality": {
+          "cityId": 7,
+          "localityName": "GST Road, Chennai",
+          "localityUrl": "chennai/gst-road-restaurants",
+          "addressString": "41/1, Guduvancherry, GST Road, Chennai",
+          "directionTitle": "Get Directions ",
+          "directionUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8542140000,80.0681410000"
+        },
+        "isBookmarked": false
+      },
+      "count": 2
+    }
+  ],
+  "top_cities": [
+    {
+      "name": "GST Road, Chennai",
+      "count": 43
+    },
+    {
+      "name": "OMR Food Street, Guduvancheri, Chennai",
+      "count": 26
+    },
+    {
+      "name": "Potheri, Chennai",
+      "count": 13
+    },
+    {
+      "name": "Siolim, Goa",
+      "count": 2
+    },
+    {
+      "name": "Jayanagar, Bangalore",
+      "count": 1
+    },
+    {
+      "name": "JP Nagar, Bangalore",
+      "count": 1
+    },
+    {
+      "name": "Bannerghatta Road, Bangalore",
+      "count": 1
+    },
+    {
+      "name": "BTM, Bangalore",
+      "count": 1
+    },
+    {
+      "name": "Abids, Hyderabad",
+      "count": 1
+    },
+    {
+      "name": "Ameerpet, Hyderabad",
+      "count": 1
+    }
+  ],
+  "all_cities": [
+    "Potheri, Chennai",
+    "GST Road, Chennai",
+    "Jayanagar, Bangalore",
+    "JP Nagar, Bangalore",
+    "Bannerghatta Road, Bangalore",
+    "BTM, Bangalore",
+    "Siolim, Goa",
+    "OMR Food Street, Guduvancheri, Chennai",
+    "Abids, Hyderabad",
+    "Ameerpet, Hyderabad",
+    "Himayath Nagar, Hyderabad",
+    "Yousufguda, Hyderabad",
+    "Film Nagar, Hyderabad",
+    "Kanchipuram District, Chennai",
+    "Perungudi, Chennai"
+  ],
+  "last_updated": "Dec 09, 2023"
+}

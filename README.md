@@ -1,2 +1,1 @@
-# munchmetric-client
-Client for MunchMetrics app
+# Client for MunchMetrics App
