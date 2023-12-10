@@ -10,7 +10,7 @@ function Hero({ data }) {
       </div>
 
       {/* Hero Expense */}
-      <div className="md:w-1/2 text-center md:text-left">
+      <div className="md:w-1/2 text-center md:text-left px-2">
         <p className="text-xs text-gray-500">Hi JJay</p>
         <h1 className="text-2xl font-bold text-gray-500 mb-4">
           <span className="font-normal  uppercase">Your expense in </span>
