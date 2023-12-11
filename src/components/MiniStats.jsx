@@ -5,7 +5,7 @@ const MiniStats = ({ data }) => {
     <div className="bg-gray-100">
       <div className="py-10 text-gray-500 max-w-6xl mx-auto">
         <div className="text-center md:text-left md:flex flex-wrap">
-          <div className="w-full sm:w-1/3 p-4 text-xl">
+          <div className="w-full md:w-1/3 p-4 text-xl">
             {/* Micro Stats */}
             <div className="mb-1 flex justify-center">
               <div className="mb-2 text-green-500 font-light text-right">
@@ -32,7 +32,7 @@ const MiniStats = ({ data }) => {
           </div>
 
           {/* Food */}
-          <div className="w-full sm:w-1/3 p-4 text-center flex flex-col justify-center ">
+          <div className="w-full md:w-1/3 p-4 text-center flex flex-col justify-center ">
             <h2 className="text-lg font-light  mb-2 text-green-500">
               Your Favorite Food
             </h2>
@@ -45,7 +45,7 @@ const MiniStats = ({ data }) => {
           </div>
 
           {/* Restaurent */}
-          <div className="w-full sm:w-1/3 p-4 text-center flex flex-col justify-center">
+          <div className="w-full md:w-1/3 p-4 text-center flex flex-col justify-center">
             <h2 className="text-lg font-light  mb-2 text-green-500">
               Your Favorite Establishment
             </h2>
